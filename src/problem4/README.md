@@ -16,6 +16,9 @@ Each method returns the same result but uses a distinct programming technique.
 
 ## ⚙️ Setup Instructions
 
+### 🧩 Requirments
+- Node version 18+
+
 ### 1️⃣ Install Dependencies
 ```bash
 npm install
